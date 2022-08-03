@@ -29,3 +29,4 @@ If you are not running the eureka server along with it, discovery client will al
 1. Admin user creates an user with specific role
 2. The user gets mail on his username/email.
 3. By clicking on the verification link user account gets activated
+4. The user can login and do further operations.
